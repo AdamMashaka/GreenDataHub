@@ -71,10 +71,6 @@ $ pip install -e GreenDataHub
 $ pip install GreenDataHHub
 ```
 
-## REPL MODE
-
-Now that the pyswahili package is installed, we can start playing with it, To involve repl just run **LawDataHab** without any argument 
-just as shown below;
 
 ```bash       
                  Green DAta HUB         
